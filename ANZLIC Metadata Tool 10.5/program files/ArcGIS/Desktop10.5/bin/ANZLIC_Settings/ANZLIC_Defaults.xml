@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Default>
+	<Element>
+		<Name>MD_ClassificationCode</Name>
+		<Value>002</Value>
+		<Interface>MetaData|Constraints|Security Constraints|Classification</Interface>
+		<Comments>000 Empty|001 Unclassified|002 Restricted|003 Confidential|004 Secret|005 Top Secret</Comments>
+	</Element>
+	<Element>
+		<Name>MD_RestrictionCode</Name>
+		<Value>002</Value>
+		<Interface>MetaData|Constraints|Legal Constraints|Access Constraints/Use Constraints</Interface>
+		<Comments>001 copyright|002 patent|003 patentPending|004 trademark|005 license|006 intellectualPropertyRights|007 restricted|008 otherRestrictions</Comments>
+	</Element>
+	<Element>
+		<Name>MD_Metadata_language</Name>
+		<Value>aus</Value>
+		<Interface>Overview|Locales|Locale </Interface>
+		<Comments>aus Australian languages|eng ENGLISH </Comments>
+	</Element>
+	<Element>
+		<Name>MD_Metadata_locale</Name>
+		<Value>AU</Value>
+		<Interface>Overview|Locales|Locale </Interface>
+		<Comments>AU AUSTRALIA|NZ NEW ZEALAND | US UNITED STATES</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Contact_Name</Name>
+		<Value>John Doe</Value>
+		<Interface>Metadata|Metadata Contacts|IndividualName AND Resource|Points of contacts|IndividualName</Interface>
+		<Comments>contact Name</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Contact_Organisation</Name>
+		<Value>Esri Australia</Value>
+		<Interface>Metadata|Metadata Contacts|OrganisationName AND Resource|Points of contacts|OrganisationName</Interface>
+		<Comments>Organisation Name from ANZLIC Organisations.xml </Comments>
+	</Element>
+	<Element>
+		<Name>CI_Contact_Position</Name>
+		<Value>GIS Officer</Value>
+		<Interface>Metadata|Metadata Contacts|Position AND Resource|Points of Contacts|Position</Interface>
+		<Comments>Position from ANZLIC Positions.xml </Comments>
+	</Element>
+	<Element>
+		<Name>CI_RoleCode</Name>
+		<Value>002</Value>
+		<Interface>Metadata|Metadata Contacts|Role AND Resource|Points of Contacts|Contacts|IndividualName</Interface>
+		<Comments>Role from ArcCatalog List - http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode </Comments>
+	</Element>
+	<Element>
+		<Name>CI_Address_electronicMailAddress</Name>
+		<Value>name.Lastname@mailserver.com.au</Value>
+		<Interface></Interface>
+		<Comments>email</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Address_Type</Name>
+		<Value>postal</Value>
+		<Interface></Interface>
+		<Comments>address Type|  postal | physical | both</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Address_deliveryPoint</Name>
+		<Value>0000 MyStreet Street</Value>
+		<Interface></Interface>
+		<Comments>address</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Address_city</Name>
+		<Value>MyCity</Value>
+		<Interface></Interface>
+		<Comments>Address City</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Address_administrativeArea</Name>
+		<Value>State</Value>
+		<Interface></Interface>
+		<Comments>address State</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Address_postalCode</Name>
+		<Value>0000</Value>
+		<Interface></Interface>
+		<Comments>address Postalcode</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Address_country</Name>
+		<Value>AU</Value>
+		<Interface></Interface>
+		<Comments>address Country</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Telephone_voice</Name>
+		<Value>000000000</Value>
+		<Interface></Interface>
+		<Comments>address Phone Number</Comments>
+	</Element>
+	<Element>
+		<Name>CI_Telephone_facsimile</Name>
+		<Value>0000000000</Value>
+		<Interface></Interface>
+		<Comments>address FAX Number</Comments>
+	</Element>
+	<Element>
+		<Name>CI_OnlineResource_linkage</Name>
+		<Value>www.esri.com</Value>
+		<Interface></Interface>
+		<Comments>onlinelink</Comments>
+	</Element>
+	<Element>
+		<Name>MD_Format_name</Name>
+		<Value>File Geodatabase Feature Class</Value>
+		<Interface></Interface>
+		<Comments>Metata Distribution Format form the ANZLICDistribution xml</Comments>
+	</Element>
+</Default>

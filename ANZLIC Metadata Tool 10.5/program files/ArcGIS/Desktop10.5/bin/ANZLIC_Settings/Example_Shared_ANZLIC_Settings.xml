@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<!--
+	<Defaults Value="C:\Program Files (x86)\ArcGIS\Desktop10.0\Bin\ANZLICXmlData\ANZLICDefault.xml"></Defaults>
+	<DistributionPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.0\Bin\ANZLICXmlData\ANZLICDistribution.xml"></DistributionPickList>
+	<KeywordsPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.0\Bin\ANZLICXmlData\ANZLICKeywords.xml"></KeywordsPickList>
+	<OrganisationPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.0\Bin\ANZLICXmlData\ANZLICOrganisations.xml"></OrganisationPickList>
+	<PositionsPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.0\Bin\ANZLICXmlData\ANZLICPositions.xml"></PositionsPickList>
+	-->
+	<Defaults Name="Defaults" Value="\\<MACHINE>\Test\ANZLICXmlData\ANZLICDefault.xml"></Defaults>
+	<DistributionPickList Value="\\<MACHINE>\Test\ANZLICXmlData\ANZLICDistribution.xml"></DistributionPickList>
+	<KeywordsPickList Value="\\<MACHINE>\Test\ANZLICXmlData\ANZLICKeywords.xml"></KeywordsPickList>
+	<OrganisationPickList Value="\\<MACHINE>\Test\ANZLICXmlData\ANZLICOrganisations.xml"></OrganisationPickList>
+	<PositionsPickList Value="\\<MACHINE>\Test\ANZLICXmlData\ANZLICPositions.xml"></PositionsPickList>
+</Settings>

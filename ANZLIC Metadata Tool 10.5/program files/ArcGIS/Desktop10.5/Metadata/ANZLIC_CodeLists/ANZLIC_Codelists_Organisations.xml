@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<codelists>
+	<codelist id="anzlic-Organisation">
+		<code value="">Empty</code>
+		<code value="Geoscience">Geoscience</code>
+		<code value="Esri Australia">Esri Australia</code>
+		<code value="Department of">Department of</code>
+		<code value="Department">Department</code>
+	</codelist>
+</codelists>

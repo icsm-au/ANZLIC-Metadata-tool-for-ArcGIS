@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<codelists>
+	<codelist id="anzlic-Position">
+		<code value="">Empty</code>
+		<code value="Administrator">Administrator</code>
+		<code value="GIS Administrator">GIS Administrator</code>
+		<code value="GIS Officer">GIS Officer</code>
+	</codelist>
+</codelists>
+
+
+
+
+
+
+
+
