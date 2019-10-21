@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<Defaults Value="C:\Program Files (x86)\ArcGIS\Desktop10.6\bin\ANZLIC_Settings\ANZLIC_Defaults.xml"></Defaults>
+	<DistributionPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.6\Metadata\ANZLIC_CodeLists\ANZLIC_Codelists_Distribution.xml"></DistributionPickList>
+	<KeywordsPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.6\Metadata\ANZLIC_CodeLists\ANZLIC_Codelists_searchThemes.xml"></KeywordsPickList>
+	<OrganisationPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.6\Metadata\ANZLIC_CodeLists\ANZLIC_Codelists_Organisations.xml"></OrganisationPickList>
+	<PositionsPickList Value="C:\Program Files (x86)\ArcGIS\Desktop10.6\Metadata\ANZLIC_CodeLists\ANZLIC_Codelists_Positions.xml"></PositionsPickList>
+</Settings>

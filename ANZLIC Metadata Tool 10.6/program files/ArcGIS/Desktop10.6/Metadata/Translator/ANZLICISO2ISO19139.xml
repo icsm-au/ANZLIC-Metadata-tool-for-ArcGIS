@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<translator name="ARCGIS to ISO19139" xslt="Transforms\ANZLIC2ISO19139.xsl" logLevel="message" stopOnErrors="yes">
+	<!--translator name="ARCGIS to ANZLIC" xslt="Transforms\ANZLIC.xsl" logLevel="error" stopOnErrors="no"-->
+	<!-- empty -->
+</translator>

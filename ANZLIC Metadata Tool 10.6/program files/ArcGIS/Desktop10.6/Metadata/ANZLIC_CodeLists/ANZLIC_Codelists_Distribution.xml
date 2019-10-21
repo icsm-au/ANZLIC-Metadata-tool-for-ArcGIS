@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<codelists>
+	<codelist id="anzlic-DistributionFormat">
+		<code value="">Empty</code>
+		<code value="Geoscience">Geoscience</code>
+		<code value="File Geodatabase Feature Class">File Geodatabase Feature Class</code>
+		<code value="ArcGIS Layer Package">ArcGIS Layer Package</code>
+		<code value="ArcGIS Personal gdb">ArcGIS Personal gdb</code>
+		<code value="ArcGIS Raster catalog">ArcGIS Raster catalog</code>
+		<code value="ArcInfo Export File">ArcInfo Export File</code>
+		<code value="ArcSDE Export File">ArcSDE Export File</code>
+		<code value="BIL Image">BIL Image</code>
+		<code value="DWG 2004">DWG 2004</code>
+		<code value="DXF 2004">DXF 2004</code>
+		<code value="ECW">ECW</code>
+		<code value="ERS">ERS</code>
+		<code value="Erdas Imagine">Erdas Imagine</code>
+		<code value="Excel Spreadsheet">Excel Spreadsheet</code>
+		<code value="GML">GML</code>
+		<code value="GeoPDF">GeoPDF</code>
+		<code value="JPEG">JPEG</code>
+		<code value="KML">KML</code>
+		<code value="MIF/MID">MIF/MID</code>
+		<code value="MapInfo TAB">MapInfo TAB</code>
+		<code value="Shapefile">Shapefile</code>
+		<code value="TIFF">TIFF</code>
+		<code value="">Text File</code>
+		<code value="VRML">VRML</code>
+	</codelist>
+</codelists>
